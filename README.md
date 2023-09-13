@@ -1,4 +1,4 @@
-# Frontend Task
+# Dataguess Frontend Task
 This project was made for a task for the Junior Frontend Developer position at Dataguess company.
 
 ## Preview Link
