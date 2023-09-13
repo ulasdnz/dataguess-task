@@ -1,16 +1,25 @@
-# Getting Started with Create React App
+# Frontend Task
+This project was made for a task for the Junior Frontend Developer position at Dataguess company.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview Link
+- [Dataguess Task](https://dataguess-task.web.app/)
 
-## Available Scripts
+## Installation
+This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) installed globally.
 
-In the project directory, you can run:
+### To Install The Necessary Packages
 
-### `npm start`
+`npm install`
+
+### To Start Server:
+
+`npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
+### To Visit App:
+
+`localhost:3000`
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
